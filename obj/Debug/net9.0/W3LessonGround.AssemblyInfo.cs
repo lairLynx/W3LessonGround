@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W3LessonGround")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1be0f9d307bb3c51d1567335212917d2c73e1824")]
 [assembly: System.Reflection.AssemblyProductAttribute("W3LessonGround")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W3LessonGround")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
