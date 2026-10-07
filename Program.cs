@@ -10,6 +10,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        // C# Syntax
         Console.WriteLine("Hello, World!");
+
+        //C# Output
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("I am Learning C#");
+        Console.WriteLine("It is awesome!");
+        Console.WriteLine(3 + 3);
+        Console.Write("Hello World! ");
+        Console.Write("I will print on the same line.");
     }
 }
