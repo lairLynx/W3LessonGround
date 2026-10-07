@@ -11,14 +11,31 @@ class Program
     static void Main(string[] args)
     {
         // C# Syntax
+        /*
         Console.WriteLine("Hello, World!");
+        */
 
         //C# Output
+        /*
         Console.WriteLine("Hello World!");
         Console.WriteLine("I am Learning C#");
         Console.WriteLine("It is awesome!");
         Console.WriteLine(3 + 3);
         Console.Write("Hello World! ");
         Console.Write("I will print on the same line.");
+        */
+
+        //C# Variables
+        string name = "John";
+        Console.WriteLine(name);
+
+        int myNum = 15;
+        Console.WriteLine(myNum);
+
+        int myNum2;
+        myNum2 = 15;
+        Console.WriteLine(myNum2);
+        myNum2 = 20; //change value of existing variable
+        Console.WriteLine(myNum2);
     }
 }
