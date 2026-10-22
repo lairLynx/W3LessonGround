@@ -1,6 +1,6 @@
-# C# Tutorial Completion
+# W3Schools Tutorial Completion
 
-This repository serves as proof of completion for the W3Schools C# tutorial lessons.
+This repository serves as proof of completion for the W3Schools tutorial lessons.
 Completion of exercises, tests and exam can be verified with the certification.
 
 ## Profile
