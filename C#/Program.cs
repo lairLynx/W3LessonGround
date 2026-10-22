@@ -12,36 +12,38 @@ class Program
     {
         // C# Syntax
         /*
-        Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         */
 
         //C# Output
         /*
-        Console.WriteLine("Hello World!");
-        Console.WriteLine("I am Learning C#");
-        Console.WriteLine("It is awesome!");
-        Console.WriteLine(3 + 3);
-        Console.Write("Hello World! ");
-        Console.Write("I will print on the same line.");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("I am Learning C#");
+            Console.WriteLine("It is awesome!");
+            Console.WriteLine(3 + 3);
+            Console.Write("Hello World! ");
+            Console.Write("I will print on the same line.");
         */
 
         //C# Variables
-        string name = "John";
-        Console.WriteLine(name);
+        /*
+            string name = "John";
+            Console.WriteLine(name);
 
-        int myNum = 15;
-        Console.WriteLine(myNum);
+            int myNum = 15;
+            Console.WriteLine(myNum);
 
-        int myNum2;
-        myNum2 = 15;
-        Console.WriteLine(myNum2);
-        myNum2 = 20; //change value of existing variable
-        Console.WriteLine(myNum2);
+            int myNum2;
+            myNum2 = 15;
+            Console.WriteLine(myNum2);
+            myNum2 = 20; //change value of existing variable
+            Console.WriteLine(myNum2);
 
-        int myNum = 5;
-        double myDoubleNum = 5.99D;
-        char myLetter = 'D';
-        bool myBool = true;
-        string myText = "Hello";
+            int myNum = 5;
+            double myDoubleNum = 5.99D;
+            char myLetter = 'D';
+            bool myBool = true;
+            string myText = "Hello";
+        */
     }
 }
