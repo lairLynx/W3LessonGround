@@ -27,6 +27,8 @@ class Program
 
         //C# Variables
         /*
+            //Variables
+
             string name = "John";
             Console.WriteLine(name);
 
@@ -44,6 +46,39 @@ class Program
             char myLetter = 'D';
             bool myBool = true;
             string myText = "Hello";
+
+            //Constants
+
+            const int myNum = 15;
+            myNum = 20; // error
+
+            //Display Variables
+            string name = "John";
+            Console.WriteLine("Hello " + name);
+
+            string firstName = "John ";
+            string lastName = "Doe";
+            string fullName = firstName + lastName;
+            Console.WriteLine(fullName);
+
+            int x = 5;
+            int y = 6;
+            Console.WriteLine(x + y); // Print the value of x + y
+
+            //Many Variables
+
+            int x =5, y = 6, z = 50;
+            Console.WriteLine(x + y + z);
+
+            int x, y, z;
+            x = y = z = 50;
+            Console.WriteLine(x + y + z);
+
+            //Identifiers
+            int minutesPerHour = 60; // Good
+
+            int m = 60; // OK, but not so easy to understand what m actually is
         */
+
     }
 }
