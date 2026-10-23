@@ -80,5 +80,58 @@ class Program
             int m = 60; // OK, but not so easy to understand what m actually is
         */
 
+        //Data Types
+
+        /*
+            int myNum = 5;              // Integer (whole number)
+            double myDoubleNum = 5.99D; // Floating point number
+            char myLetter = 'D';        // Character
+            bool myBool = true;         // Boolean
+            string myText = "Hello";    // String
+
+            //Integer types
+
+                //Int
+                int myNum = 100000;
+                Console.WriteLine(myNum); 
+
+                //Long
+                long myNum = 15000000000L;
+                Console.WriteLine(myNum); 
+            
+            //Floating point types
+
+                //Float
+                float myNum = 5.75F;
+                Console.WriteLine(myNum); 
+
+                //Double
+                double myNum = 19.99D;
+                Console.WriteLine(myNum); 
+
+            //Scientific numbers
+
+                float f1 = 3.5e3F;
+                double d1 = 12E4D;
+                Console.WriteLine(f1);
+                Console.WriteLine(d1);
+
+            //Booleans
+
+                bool isCSharpFun = true;
+                bool isFishTasty = false;
+                Console.WriteLine(isCSharpFun); // outputs True
+                Console.WriteLine(isFishTasty); // outputs False
+
+            //Characters
+
+                char myGrade = 'B';
+                Console.WriteLine(myGrade);
+            
+            //Strings
+
+                string greeting = "Hello World";
+                Console.WriteLine(greeting);
+        */
     }
 }
